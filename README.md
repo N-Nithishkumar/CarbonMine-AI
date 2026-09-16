@@ -1,1 +1,1 @@
-# CarbonMine-AI
+# CarbonMine AI
